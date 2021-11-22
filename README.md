@@ -59,32 +59,19 @@ dotnet run --project .\src\Desafio.WebApi\Desafio.WebApi.csproj
 
 ## Ainda tem perguntas ou sugestão de melhoria?
 
-Sinta-se à vontade em abrir um [issue][DefeitoInnovt] ou [Pull Request][PullRequest].
+Sinta-se à vontade em abrir um [issue][DefeitoFarmApp] ou [Pull Request][PullRequest].
 
 
 
 [//]: # (Links de referências para os badges deste repositório)
 
-[ImagemProblema]: <https://img.shields.io/github/issues/alexandredorea/Innovt.svg?style=flat-square>
-[Problemas]: <https://github.com/alexandredorea/Innovt/issues>
-[ImagemLicenca]: <https://img.shields.io/github/license/alexandredorea/Innovt.svg?style=flat-square>
-[Licenca]: <https://github.com/alexandredorea/Innovt/blob/master/LICENSE>
-
-
-
-[//]: # (Links de referências para os requisitos do sistema)
-
-[CadastroNoticias]: <https://github.com/alexandredorea/Innovt/blob/master/Documentation/Especification/01%20-%20Pagina%20de%20cadastro%20de%20noticia.md>
-[ResumoNoticias]: <https://github.com/alexandredorea/Innovt/blob/master/Documentation/Especification/02%20-%20Pagina%20de%20resumo%20do%20envio%20da%20noticia.md>
-
-
-[//]: # (Links de referências o quadro Kanban do projeto)
-
-[ProjetoInnovt]: <https://github.com/alexandredorea/Innovt/projects/1>
-
+[ImagemProblema]: <https://img.shields.io/github/issues/alexandredorea/Desafio.FarmApp.svg?style=flat-square>
+[Problemas]: <https://github.com/alexandredorea/Desafio.FarmApp/issues>
+[ImagemLicenca]: <https://img.shields.io/github/license/alexandredorea/Desafio.FarmApp.svg?style=flat-square>
+[Licenca]: <https://github.com/alexandredorea/Desafio.FarmApp/blob/master/LICENSE>
 
 
 [//]: # (Links de referências aos problemas neste projeto)
 
-[DefeitoInnovt]: <https://github.com/alexandredorea/Innovt/issues>
-[PullRequest]: <https://github.com/alexandredorea/Innovt/pulls>
+[DefeitoFarmApp]: <https://github.com/alexandredorea/Desafio.FarmApp/issues>
+[PullRequest]: <https://github.com/alexandredorea/Desafio.FarmApp/pulls>
