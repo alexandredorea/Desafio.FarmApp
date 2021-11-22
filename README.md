@@ -11,9 +11,7 @@ Este projeto reflete um dos desafios realizados como parte de um processo seleti
 
 Você trabalha em uma rede de distribuição de farmácia importância de sua cidade. O gestor do do negócio decidiu que chegou a hora de implementar uma nova funcionalidade que permita aos usuários se cadastrarem para obter enviem as notícias da região onde moram para contribuir com o site.
 
-Sua função é programar uma pagina de “Cadastro de Notícia”, onde o usuário irá preencher alguns campos e fazer upload da imagem da notícia.
-
-Após o cadastramento correto, o usuário deve ser redirecionado para uma página informando que a notícia foi cadastrada corretamente e que será avaliada pelos editores do site.
+Sua função é programar um microserviço, onde o usuário irá preencher alguns campos seguindo etapas de validação de dados. Após o cadastramento correto, o usuário deverá receber um e-mail informando que o seu cadastro foi realizado com sucesso.
 
 
 ## Especificações
